@@ -14,7 +14,7 @@
   <img src = https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg height = 40 width = 40> &nbsp;
   <img src = https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg height = 40 width = 40> &nbsp;
   <img src = https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg height = 40 width = 40> &nbsp;
-  <img src = https://p7.hiclipart.com/preview/1/866/415/microsoft-sql-server-sql-server-management-studio-computer-servers-microsoft.jpg height = 40 width = 40> &nbsp;
+  <img src = https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg height = 40 width = 40> &nbsp;
   <img src = https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg height = 40 width = 40> &nbsp;
 </div>
 
