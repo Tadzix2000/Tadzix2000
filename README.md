@@ -20,3 +20,6 @@
   <img src = https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg height = 40 width = 40> &nbsp;
   <img src = https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg height = 40 width = 40> &nbsp;
 </div>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tadzix2000&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tadzix2000&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
