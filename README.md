@@ -21,4 +21,5 @@
   <img src = https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg height = 40 width = 40> &nbsp;
 </div>
 <h2>GitHub Stats</h2>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tadzix2000&theme=light&hide_border=false)<br/>
