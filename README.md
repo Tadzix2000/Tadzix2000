@@ -19,4 +19,6 @@
   <img src = https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg height = 40 width = 40> &nbsp;
   <img src = https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg height = 40 width = 40> &nbsp;
 </div>
-
+<h2>GitHub Stats</h2>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Krristoff&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krristoff&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
