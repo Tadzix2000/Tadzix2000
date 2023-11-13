@@ -6,6 +6,7 @@
   <li>Best at backend development</li>
   <li>A beginner that wants to get first commercial experience in commercial progamming</li>
   <li>In free time creating minor projects, Hope there will be more stuff here soon</li>
+  <li>Outside programming also a drummer in <a href = "https://open.spotify.com/artist/3KjpOu4fn3OaqljBtA8y66">Dreamless Night</a></li>
 </ul>
 <h2> Technologies </h2>
 <div>
@@ -19,5 +20,3 @@
   <img src = https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg height = 40 width = 40> &nbsp;
   <img src = https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg height = 40 width = 40> &nbsp;
 </div>
-<h2>GitHub Stats</h2>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tadzix2000&theme=dark&background=000000)](https://git.io/streak-stats)
