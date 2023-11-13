@@ -20,5 +20,4 @@
   <img src = https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg height = 40 width = 40> &nbsp;
 </div>
 <h2>GitHub Stats</h2>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Krristoff&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krristoff&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tadzix2000&theme=dark&background=000000)](https://git.io/streak-stats)
